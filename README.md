@@ -1,4 +1,4 @@
-# Prof. Guilherme Nonino: E-books Power BI
+# Prof. Me. Guilherme Nonino Rosa: E-books Power BI
 
 Site oficial dos e-books **Power BI Básico** e **Power BI Avançado**, disponíveis na Hotmart.
 
